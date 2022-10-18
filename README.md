@@ -19,7 +19,7 @@ Open MySQL in powershell to run the schema for the database. Then run the comman
 ## License
 The MIT License
 ## Contributing
-the command 'npm run seed' to seed the database. You can then open insomnia to run through looking at, adding, and subtracting        
+No contributions will be accepted at this time. Feel free to pull the reposiroty and make changes if you'd like!
 ## Tests
 N/A
 ## Questions
