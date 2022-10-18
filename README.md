@@ -13,13 +13,13 @@ Using Express.js, Sequelize, Node.js, and MySQL; I created the backend of an e-c
 
 demonstration video: https://drive.google.com/file/d/1V_1zPsHUh9IYxd2xbILi_r5C0n18s3B9/view?usp=sharing
 ## Installation
-Pull the reposiotry from github. Make sure to run npm install in order to download all of the necessary packages to run the application. 
+Pull the repository from github. Make sure to run npm install in order to download all of the necessary packages to run the application. 
 ## Usage
 Open MySQL in powershell to run the schema for the database. Then run the command 'npm run seed' to seed the database. You can then open insomnia to run through looking at, adding, and subtracting different parts of the data!
 ## License
 The MIT License
 ## Contributing
-No contributions will be accepted at this time. Feel free to pull the reposiroty and make changes if you'd like!
+No contributions will be accepted at this time. But feel free to pull the reposiroty and make changes if you'd like!
 ## Tests
 N/A
 ## Questions
