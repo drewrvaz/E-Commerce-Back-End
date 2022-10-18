@@ -11,7 +11,7 @@
 ## Description
 Using Express.js, Sequelize, Node.js, and MySQL; I created the backend of an e-commerce company's website. The goal for this project was to learn how to put all of those pieces together to create an API that a company can use to keep track of their inventory. This project used starter code provided by the MSU Coding BootCamp.
 
-demonstration video: 
+demonstration video: https://drive.google.com/file/d/1V_1zPsHUh9IYxd2xbILi_r5C0n18s3B9/view?usp=sharing
 ## Installation
 Pull the reposiotry from github. Make sure to run npm install in order to download all of the necessary packages to run the application. 
 ## Usage
